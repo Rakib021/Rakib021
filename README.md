@@ -7,6 +7,18 @@
 ###
 
 <div align="left">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakib021&label=Profile%20views&color=0e75b6&style=flat" alt="rakib021" /> </p>
+
+- 🔭 I’m currently working on [recipe-api](https://github.com/Rakib021/recipe-app-api)
+
+- 🌱 I’m currently learning **Django,Django rest framework**
+
+- 💬 Ask me about **Django**
+
+- 📫 How to reach me **md.rakib.0441@gmail.com**
+</div>
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
