@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [recipe-api](https://github.com/Rakib021/recipe-app-api)
 
-- 🌱 I’m currently learning **Django,Django rest framework**
+- 🌱 I’m currently learning **Docker, frontend-libary React**
 
 - 💬 Ask me about **Django**
 
@@ -64,5 +64,14 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+<div align="left">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib021&show_icons=true&locale=en&layout=compact" alt="rakib021" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakib021&show_icons=true&locale=en" alt="rakib021" /></p>
+
+</div>
+
+
 
 ###
