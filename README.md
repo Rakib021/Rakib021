@@ -9,7 +9,7 @@
 <div align="left">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakib021&label=Profile%20views&color=0e75b6&style=flat" alt="rakib021" /> </p>
 
-- 🔭 I’m currently working on [recipe-api](https://github.com/Rakib021/recipe-app-api)
+- 🔭 I’m currently working on [recipe-api](https://github.com/Rakib021/ecomsite-django)
 
 - 🌱 I’m currently learning **Docker, frontend-libary React**
 
